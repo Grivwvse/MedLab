@@ -105,8 +105,11 @@ stateDiagram-v2
 * The ability to restrict access rights to both a specific user and a group of users.
 
 ## ___Database___ ##
+The database corresponds to the third normal form (3NF)
+<p align="center">
+  <img src="https://github.com/Grivwvse/MedLab/blob/main/assets/ER-Diagram.png" >
+</p>
 
-TODO - Add scheme of DB
 
 <br>
 
